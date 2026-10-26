@@ -169,10 +169,6 @@ The original exercise planned evidence in these categories. No screenshots, raw 
 | False positives and false negatives | Informational host metadata and a response anomaly needed context; the web activity illustrated a possible missed alert. | Detection tuning should balance coverage and operational noise using evidence. |
 | Blue-team perspective | The exercise compared a test activity with the evidence available to the defender. | Controlled lab work can help analysts understand what their sensors do and do not observe. |
 
-## Portfolio context
-
-The source notes placed this work after several learning stages on network and web security topics and log-parser automation. This stage emphasized blue-team visibility with Suricata, followed by a planned combined report. Offensive lab procedures and unrelated findings are intentionally excluded from this public repository.
-
 ## License
 
 The source notes specified CC BY-NC 4.0 for the original portfolio material. This sanitized summary preserves that stated licensing context; consult the license terms before reuse.
